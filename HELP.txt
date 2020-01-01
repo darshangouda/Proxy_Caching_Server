@@ -34,6 +34,7 @@ sudo java -jar PROXY_SERVER.jar
 
 
 NOTE : This is successfully tested on ubuntu 2018.4
+  and the project built on Apache Netbeans 10
 you may get permission error for that give permission using chmod followed by cache directory
 
 
